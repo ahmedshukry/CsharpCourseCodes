@@ -1,0 +1,4 @@
+E:\Csharp A To Z Learning\Console\firstVariable\firstVariable\bin\Debug\firstVariable.exe
+E:\Csharp A To Z Learning\Console\firstVariable\firstVariable\bin\Debug\firstVariable.pdb
+E:\Csharp A To Z Learning\Console\firstVariable\firstVariable\obj\x86\Debug\firstVariable.exe
+E:\Csharp A To Z Learning\Console\firstVariable\firstVariable\obj\x86\Debug\firstVariable.pdb
