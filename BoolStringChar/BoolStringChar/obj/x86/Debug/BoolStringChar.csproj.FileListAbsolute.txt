@@ -1,0 +1,4 @@
+E:\Csharp A To Z Learning\Console\boolStringChar\BoolStringChar\BoolStringChar\bin\Debug\BoolStringChar.exe
+E:\Csharp A To Z Learning\Console\boolStringChar\BoolStringChar\BoolStringChar\bin\Debug\BoolStringChar.pdb
+E:\Csharp A To Z Learning\Console\boolStringChar\BoolStringChar\BoolStringChar\obj\x86\Debug\BoolStringChar.exe
+E:\Csharp A To Z Learning\Console\boolStringChar\BoolStringChar\BoolStringChar\obj\x86\Debug\BoolStringChar.pdb
